@@ -45,7 +45,7 @@ if (empty($_POST["message"])) {
 }
 
 
-$EmailTo = "vinay.valson@gmail.com";
+$EmailTo = "vidya@sasthascientific.com";
 $Subject = "SSA Website Enquiry Form";
 
 // prepare email body text
